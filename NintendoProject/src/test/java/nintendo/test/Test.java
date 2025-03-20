@@ -6,6 +6,7 @@ import nintendo.model.Jeu;
 public class Test {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		// TODO Auto-generated method stub
 		
 		Console switchConsole = new Console("switch");
@@ -17,6 +18,11 @@ public class Test {
 		Jeu j3 = new Jeu("Samus pirate",playstation);
 		Jeu j4 = new Jeu("Pokemon rouge",nintendoDs);
 		Jeu j5 = new Jeu("Smash Bros",switchConsole);
+=======
+
+
+
+>>>>>>> origin/feature
 	}
 
 }
