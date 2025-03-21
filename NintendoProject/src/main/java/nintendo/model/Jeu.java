@@ -6,6 +6,12 @@ public class Jeu {
 	private Console console;
 	private Boutique boutique;
 	
+	
+	public Jeu(String titre, Console console) {
+		this.titre = titre;
+		this.console = console;
+	}
+
 
 	public Jeu(String titre, Console console, Boutique boutique) {
 		this.titre = titre;
