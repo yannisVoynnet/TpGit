@@ -12,8 +12,6 @@ import nintendo.model.Salon;
 public class Test {
 
 	public static void main(String[] args) {
-
-		// TODO Auto-generated method stub
 		
 		Console switchConsole = new Hybride("switch", 300, LocalDate.parse("2017-03-03"));
 		Console playstation = new Salon("ps3", 400, LocalDate.parse("2006-11-11"));
