@@ -2,7 +2,7 @@ package nintendo.model;
 
 import java.time.LocalDate;
 
-public class Console {
+public abstract class Console {
 
 	private String nom;
 	private double prix;
