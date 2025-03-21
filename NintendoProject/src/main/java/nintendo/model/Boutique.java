@@ -8,7 +8,7 @@ public class Boutique {
 	
 	public Boutique(String nom, String adresse) {
 		this.nom = nom;
-		Adresse = adresse;
+		this.Adresse = adresse;
 		
 		
 		
